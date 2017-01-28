@@ -37,7 +37,7 @@ TARGET_UNIFIED_DEVICE := true
 TARGET_BOOTLOADER_BOARD_NAME := g2m
 
 # Kernel
-TARGET_KERNEL_CONFIG := g2m_lineage_defconfig
+TARGET_KERNEL_CONFIG := mokee_g2m_defconfig
 
 # Filesystem,
 BOARD_FLASH_BLOCK_SIZE := 131072
